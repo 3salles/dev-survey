@@ -1,0 +1,8 @@
+{
+  "name": "dev-survey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:3salles/dev-survey.git",
+  "author": "3salles <beatrizsallesss@gmail.com>",
+  "license": "MIT"
+}
