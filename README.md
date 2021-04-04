@@ -2,6 +2,9 @@ dev-survey
 
 # Techs
 
- * Eslint
- * TypeScript
- 
+  
+  * TypeScript
+  * Eslint
+  * Husky
+  * Staged-lint
+  * Jest
