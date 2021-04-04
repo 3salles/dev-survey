@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "git@github.com:3salles/dev-survey.git",
   "author": "3salles <beatrizsallesss@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "@types/react": "^17.0.3",
+    "typescript": "^4.2.3"
+  }
 }
