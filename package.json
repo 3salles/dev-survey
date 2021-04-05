@@ -1,14 +1,12 @@
 {
   "name": "dev-survey",
   "version": "1.0.0",
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --passWithNoTests",
+    "test:watch": "yarn test -- --watch",
+    "test:staged": "yarn test -- --findRelatedTests",
+    "test:ci": "yarn test -- --coverage"
   },
   "repository": "git@github.com:3salles/dev-survey.git",
   "author": "3salles <beatrizsallesss@gmail.com>",
