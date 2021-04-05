@@ -8,4 +8,4 @@ dev-survey
   * Husky
   * Staged-lint
   * Jest
-  *
+  * Faker
