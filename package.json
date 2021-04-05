@@ -1,6 +1,11 @@
 {
   "name": "dev-survey",
   "version": "1.0.0",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "main": "index.js",
   "scripts": {
     "test": "jest"
