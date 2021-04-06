@@ -4,7 +4,5 @@ dev-survey
 
   
   * TypeScript
-  * Eslint
-  * Husky
-  * Staged-lint
   * Jest
+  * Faker
